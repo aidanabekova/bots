@@ -1,1 +1,0 @@
-worker: python hw1_bot.py
